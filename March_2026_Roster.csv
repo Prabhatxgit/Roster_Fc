@@ -1,0 +1,407 @@
+Employee ID,Name,Dept,Status,Shift DNA,2026-03-01,2026-03-02,2026-03-03,2026-03-04,2026-03-05,2026-03-06,2026-03-07,2026-03-08,2026-03-09,2026-03-10,2026-03-11,2026-03-12,2026-03-13,2026-03-14,2026-03-15,2026-03-16,2026-03-17,2026-03-18,2026-03-19,2026-03-20,2026-03-21,2026-03-22,2026-03-23,2026-03-24,2026-03-25,2026-03-26,2026-03-27,2026-03-28,2026-03-29,2026-03-30,2026-03-31,Total_Work_Hours,Total Shifts
+112896498,Rituraj Kumar ,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,Night,WO,Night,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,WO,Night,WO,189,21
+102134558,"Kumar,Aakash",Inbound,Active-Blue,Rotating,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,WO,Night,WO,Night,WO,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,189,21
+102194224,"YADAV,PARVEEN",Inbound,Active-Blue,Rotating,Day,WO,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,Night,Night,WO,WO,Day,WO,WO,189,21
+102211956,",,,Mohit",Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,WO,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,189,21
+103151031,"Prakash,Chander",Inbound,Active-Blue,Rotating,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,Night,Night,WO,Day,WO,189,21
+113270340,jaspreet kaur,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,WO,Night,WO,Night,Night,Night,Night,Day,Day,WO,Day,Day,Day,WO,Night,WO,Night,Night,WO,Night,Night,Day,WO,WO,189,21
+113487579,RAHUL,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+109487410,Deepak Kumar,Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,WO,Night,189,21
+106189535,"KRISHAN KUMAR YADAV,MANISH",Inbound,Active,Rotating,WO,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,189,21
+113287479,RAVI,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,Night,WO,Night,WO,Night,WO,189,21
+113535874,DEEPAK KUMAR,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,WO,Day,Night,WO,WO,189,21
+113308963,Anshu dubey,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,Night,189,21
+113540641,Mohd Khan,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Night,WO,WO,189,21
+113321772,JOHN,Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,WO,Day,Day,Day,WO,Day,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,189,21
+205087479,Deepanshu,Inbound,Active,Rotating,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Day,WO,Day,Day,Day,Day,WO,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,189,21
+107491164,"Kumarrrrr,Shivammm",Inbound,Active,Rotating,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,189,21
+203138624,Amit ,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,WO,Night,WO,Night,Night,Night,Night,Day,WO,WO,189,21
+204965423,Santosh Sharma ,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,Day,WO,WO,Night,189,21
+205040575,Rahul,Inbound,Active,Rotating,Day,Day,Day,WO,WO,Day,Day,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Day,WO,WO,189,21
+113351689,POOJA Kumari,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204787040,Rupa Kailash Prasad,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+109628407,"pramodtmamar,pramodtm amar",Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,WO,Day,Night,Night,Night,WO,Night,Night,WO,WO,Day,WO,189,21
+109629918,"GANESH DATT MASIWAL,BEENA DEVI",Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204732181,Taranjit Kaur,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,Night,WO,Night,Night,WO,Night,WO,WO,189,21
+109862310,"Chandra pal,Ajay Kumar Ajay Kumar Kumar Chandra pa",Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,Night,189,21
+205296541,ANKIT,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,Night,WO,WO,Day,WO,Day,WO,Day,Day,Day,Night,WO,WO,189,21
+110850049,"Jai,Ritu",Inbound,Active,Rotating,Night,Night,Night,WO,WO,Night,Night,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,WO,Night,Night,Night,Night,WO,Night,WO,WO,Day,189,21
+111899542,Poonam,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205828097,Janardan,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,WO,Day,Day,Day,Day,WO,Day,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,189,21
+113266793,Ruchi,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+109586142,"BADAN SINGH,Pavan Kumar",Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,Night,WO,189,21
+202865979,KAPIL,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Day,WO,Day,WO,Day,Day,Day,WO,WO,Night,189,21
+112740903,DUSYANT,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+109616188,"BINDU LAL,SUSHMA",Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204990464,Mamta Kumari ,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,WO,Night,Night,Night,WO,Night,WO,WO,Night,Night,Night,Night,WO,WO,Day,189,21
+113359655,Vandna,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112325258,JYOTI ARYA,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113072254,Shivam Singh,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,WO,WO,Night,189,21
+113076574,Sonu Kumar,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Night,WO,WO,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,WO,WO,189,21
+113133563,Sachin yadav,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,WO,Day,Day,WO,WO,WO,Day,189,21
+113072276,Abhishek,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Night,WO,WO,189,21
+100784136,"Saini,Vikram",Inbound,Active-Blue,Rotating,WO,Night,Night,Night,WO,Night,Night,Day,Day,Day,Day,Day,WO,WO,WO,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,WO,Day,Day,WO,WO,189,21
+102998922,"mahender,sunil",Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Night,Night,WO,Night,Night,Night,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,WO,Night,WO,Night,Night,WO,Night,WO,189,21
+113198145,NITISH KUMAR,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,Night,WO,Night,WO,Night,Night,Night,Day,Day,WO,Day,Day,Day,WO,WO,WO,Night,189,21
+110686459,"Devi,Savita Devi",Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+106005263,Parddeep,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,WO,Night,Night,Night,WO,Night,Night,Day,Day,Day,WO,WO,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,189,21
+106715148,"Dharambeer Singh,Surender SinghPPR",Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Day,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,WO,189,21
+106667549,"INDER SINGH,SHRASHTIkkk",Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Night,WO,WO,189,21
+110965187,"KAUR,Parwinder Kaur",Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113229442,Anita Kumari,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113278724,DEVENDRA,Inbound,Active,Rotating,Night,Night,WO,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Day,Day,WO,Day,Day,Day,WO,Night,WO,WO,189,21
+113279324,Angad dohare ,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,WO,WO,Night,WO,189,21
+100758162,"BEER SINGH,NAVEEN KUMAR",Inbound,Active-Blue,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,WO,WO,Night,Night,WO,Day,Day,Day,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,WO,189,21
+102213961,"Singh,Surendra",Inbound,Active-Blue,Rotating,Night,Night,WO,Night,Night,WO,Night,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Night,Night,Night,Night,Night,WO,WO,WO,WO,Day,189,21
+113286969,Beant Kaur,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113286978,SHOBHA,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,WO,Day,Night,Night,WO,Night,WO,Night,Night,Day,WO,Day,WO,Day,Day,Day,WO,Day,WO,189,21
+113287910,Puneet Kumar,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,189,21
+113296080,SHIVANI DEVI,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,Night,WO,WO,189,21
+113296090,PRIYANKA,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,WO,Night,Day,WO,WO,189,21
+102443259,"Ashokkumar,Narbirsingh",Inbound,Active-Blue,Rotating,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,Night,Night,WO,WO,Day,189,21
+112784675,ARAB,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,WO,189,21
+113369077,Vishvendra,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,189,21
+113251247,ABHISHEK,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,Night,Night,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,WO,WO,Night,189,21
+106898418,"VED VARTT,VIVEK",Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+112945297,RAHUL,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Day,WO,Day,WO,Day,Day,Day,WO,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,Day,WO,Day,WO,Night,WO,189,21
+109601406,"naveensatishkumar,naveenn satishkumar",Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,189,21
+113308955,Pardeep Kumar,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,Night,Night,WO,Day,WO,WO,189,21
+113309347,Akhil,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,WO,Day,189,21
+113309980,RITU LAKSHMI KANT,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,Night,WO,Night,Night,Day,WO,WO,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Night,189,21
+109619968,"parvveenjaibir,parvveen jaibir",Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,Night,Day,Day,WO,Day,Day,Day,WO,Night,WO,WO,189,21
+112220477,KARNAIL KUMAR,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,WO,WO,Night,WO,189,21
+112339563,Dhanraj ,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,189,21
+113327558,Sushila devi,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112435680,MAHESH KUMAR,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,189,21
+113375282,SAURABH,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,Day,WO,Day,WO,WO,Day,WO,Day,Day,Day,Day,WO,WO,Night,189,21
+113358086,MADHURI,Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,189,21
+112673664,Bharat Singhh,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,WO,Night,Night,Night,Night,Night,WO,WO,WO,Day,189,21
+112839130,Ramanpreet,Inbound,Active,Rotating,Day,Day,WO,Day,WO,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,WO,189,21
+109685667,SOMBIR  SOMBIR,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113344703,Anannya Mishra,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113344710,KASHEELA RANI,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,WO,Night,189,21
+112839150,Pooja,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113147268,Dharmpal  Singh,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Night,WO,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+113073511,Rakesh,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,WO,Day,WO,Day,Day,Day,Day,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,WO,Night,189,21
+113449417,Sanwarmal,Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,WO,Night,WO,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,WO,Day,WO,189,21
+113358092,SAPNA,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113350476,Ramesh Malakar,Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,WO,Night,189,21
+113394530,DIMPAL,Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+203138568,yudhveer,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,WO,WO,189,21
+113358081,SHAMTA,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,Night,WO,189,21
+113540632,Sohan sharma,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,Night,Night,Night,Night,Night,WO,Day,Day,WO,Day,WO,Day,Day,Night,WO,WO,189,21
+113219340,Rishi kapoor,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Day,Day,WO,Day,WO,Day,Day,WO,Day,WO,189,21
+112739036,Vikash  sharma,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,WO,WO,Night,189,21
+113546763,nishu,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,Night,WO,189,21
+109866245,"Sant Lal.,Kirshan Kumar.",Inbound,Active,Rotating,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,WO,Night,WO,189,21
+203092562,Sanjana,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Night,WO,WO,189,21
+113540457,Shivani Devi,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,WO,Night,WO,Night,Night,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Night,WO,189,21
+113252168,Sonu Shakya shakya,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Night,Night,Night,Night,WO,Night,WO,WO,WO,Day,189,21
+113376008,PINKEE,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+103625601,"Surender Singh,Rahul Yadav",Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,189,21
+113377255,Anuj Kumar,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,WO,WO,Night,Night,Day,Day,WO,WO,Day,Day,Day,WO,Night,WO,Night,Night,Night,Night,WO,WO,Day,189,21
+113296100,Krishan,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Night,Night,Night,Night,Night,Day,WO,WO,189,21
+113399176,Chandra,Inbound,Active,Rotating,Day,Day,WO,Day,WO,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,189,21
+113377895,Aarti ,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Day,Day,Day,Day,WO,WO,Day,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,Day,WO,WO,189,21
+110183316,"Inderjeet Kailash,Kailash Inderjeet",Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,Night,WO,189,21
+113308957,Kuldeep  Kumar,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,Night,WO,Night,WO,Night,Night,Night,WO,Day,WO,189,21
+107023393,"Nathi singh,Rajender",Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,WO,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,WO,Day,Day,WO,WO,Day,189,21
+113302261,NITIN Kumar,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Day,Day,WO,Day,WO,Day,Day,WO,WO,Day,189,21
+113286961,Kajal,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,WO,WO,Day,189,21
+113425022,Jyoti,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+103366207,Ashish,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,189,21
+113296123,Ajay Kumar,Inbound,Active,Rotating,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,WO,189,21
+113219818,Darshan Kumar Jajoria,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,WO,WO,Night,189,21
+112054623,Ankit,Inbound,Active,Rotating,WO,WO,Night,Night,Night,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+203135349,Manisha,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,WO,189,21
+113434574,MOHIT KUMAR,Inbound,Active,Rotating,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,WO,Night,WO,WO,Day,189,21
+113540313,Rishav,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,WO,Day,Day,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,WO,189,21
+113487606,Sandeep Karwashara,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,WO,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,Night,WO,Night,WO,Night,Night,Night,WO,WO,189,21
+113540325,Rani Kumari,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113418120,Anurag Anand,Inbound,Active,Rotating,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,Day,Day,Day,Day,Night,Night,Night,WO,Night,Night,WO,Night,WO,WO,189,21
+113296831,virender,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,WO,WO,Day,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,189,21
+113314995,Lokesh,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,Night,WO,WO,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,Day,189,21
+113321785,GOVIND KUMAR,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,Night,Night,WO,WO,Day,Day,WO,WO,Day,Day,Day,Night,WO,WO,Night,Night,Night,Night,Day,WO,WO,189,21
+113547274,VIMAL Arvind Kumar Porwal,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,WO,WO,Day,189,21
+112466035,Pawan Kumar,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,WO,WO,WO,WO,Night,Night,Night,Night,Night,WO,Day,WO,189,21
+203138573,ANIL,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,WO,WO,189,21
+113554564,Rashi Rani,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Night,WO,189,21
+202977178,Yogesh Kumar,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Day,Day,WO,WO,Day,Day,Day,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,189,21
+204090466,Mohit Kumar,Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,WO,WO,Night,WO,WO,Night,189,21
+113350451,Yuvraj Jitender,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,Night,WO,WO,Day,WO,WO,189,21
+203135322,VINOD ,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,WO,Day,WO,WO,189,21
+204939837,Kaushal,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,189,21
+113540316,Km Savita  Jeetram Singh,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,Night,WO,Night,Night,Day,Day,Day,Day,WO,Day,WO,Night,WO,Night,WO,Night,Night,Night,Day,WO,WO,189,21
+204965416,Suman,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,WO,Day,Day,WO,Day,Day,Day,WO,Night,WO,189,21
+113438438,sharif,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,WO,Day,WO,WO,189,21
+113399181,Sharmila,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,WO,WO,Day,189,21
+113399394,AMIT Kumar,Inbound,Active,Rotating,WO,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,WO,Night,WO,189,21
+112784714,Ruksar,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,WO,Day,Day,Day,Day,Day,WO,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,189,21
+203687346,Ajay,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Night,WO,WO,189,21
+203317664,NAZIYA,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,189,21
+100570713,"Sahir,Mohd",Inbound,Active-Blue,Rotating,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,WO,WO,Night,189,21
+113479058,JAY PRAKASH,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,189,21
+113540347,Deepak Kumar,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,Day,Day,WO,Day,Day,WO,Day,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,Day,WO,WO,189,21
+113376563,Rahul kumar kumar,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,WO,Night,Night,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,Night,WO,WO,189,21
+204792924,Aman,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Day,WO,Day,Day,Day,WO,Day,Day,WO,WO,189,21
+113540301,Ravneet Kaur,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,Night,WO,WO,Day,Day,WO,WO,Day,Day,Day,WO,Day,WO,189,21
+113540305,Sandeep,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Day,WO,WO,189,21
+202865994,Sanjay,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,WO,Night,WO,Night,WO,Night,WO,189,21
+113540314,Simran,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+203007743,DIVYA,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Night,WO,WO,189,21
+202874616,Mohit,Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,WO,WO,WO,Day,189,21
+113547267,Aman  Yadav,Inbound,Active,Rotating,Night,WO,WO,Night,Night,Night,Night,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,WO,Night,WO,Night,WO,WO,Night,189,21
+113076510,SONU,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Night,Night,WO,Night,WO,Night,Night,WO,WO,Day,189,21
+113037530,Manpreet,Inbound,Active,Rotating,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,WO,WO,Night,WO,Night,WO,189,21
+204050729,pratima,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,Night,WO,Night,Night,Night,Day,Day,WO,WO,Day,Day,Day,WO,Night,WO,189,21
+205066938,Sourbh,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,Night,Night,WO,Night,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,Night,WO,Night,WO,WO,Day,189,21
+203135350,Abhishek Shakya,Inbound,Active,Rotating,WO,WO,Day,Day,Day,Day,Day,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+113344723,Pavan kumar,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,WO,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+113553502,AJAY,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,Day,WO,Day,Day,Day,Day,Night,Night,Night,WO,Night,Night,WO,WO,Night,WO,189,21
+112896484,Parmod,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,WO,Day,WO,Day,WO,WO,189,21
+112998703,Shahista Zaby,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Day,Day,Day,WO,Day,Day,WO,WO,WO,Night,189,21
+203138556,Shyam Jee,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Night,WO,Night,WO,Night,Night,Night,WO,Day,WO,Day,Day,Day,Day,Night,WO,WO,189,21
+203688650,Jeet,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,WO,Night,Night,WO,WO,Day,WO,189,21
+203777640,shipra,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Day,Day,Day,Day,Day,WO,WO,WO,Night,Night,Night,WO,Night,Night,Day,Day,WO,WO,Day,Day,Day,WO,Night,WO,189,21
+108278333,NEERAJ  Krishan Kumar,Inbound,Active,Rotating,WO,Night,Night,Night,WO,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,189,21
+205241405,Sachin Varma ,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,Night,WO,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,WO,Night,WO,Night,Day,WO,WO,189,21
+113481452,Gajender,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Night,Night,WO,WO,Night,Night,Night,Day,WO,Day,Day,Day,WO,Day,Night,WO,WO,189,21
+205330720,RAVINA,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Night,189,21
+204725750,Ganga Mehar Singh,Inbound,Active,Rotating,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,WO,Night,Night,Night,Day,Day,Day,WO,Day,Day,WO,WO,WO,Night,189,21
+204725740,Simran,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,WO,Night,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,WO,WO,189,21
+204732179,Raj,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,WO,WO,Night,189,21
+202865977,Guriya Kumari,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205371067,Nikhil Nikhil,Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,WO,Day,Day,WO,Day,Day,Day,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,WO,Night,WO,189,21
+205385076,Daya,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,Night,Day,WO,WO,189,21
+204939070,Jyoti Bala,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Night,WO,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,189,21
+203114356,Manpreet kaur,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,Night,WO,189,21
+204965466,ANMOLPREET,Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,WO,Night,189,21
+204939077,khushbu,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,Night,WO,WO,Night,Night,Night,WO,Day,WO,Day,Day,Day,Day,Night,Night,WO,WO,Night,Night,Night,WO,Night,WO,189,21
+205429513,AVI,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,Night,189,21
+204732191,Pushpendra Singh ,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,WO,Day,WO,Day,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,189,21
+204754094,Swati,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Day,WO,WO,189,21
+204939911,Krishna,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,WO,Night,WO,Night,WO,189,21
+203138554,Pal Jitendra,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,WO,Night,WO,Night,Night,WO,Night,Night,WO,WO,Night,189,21
+204942671,Ajay Raj Singh  Shiv Kumar Singh,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,WO,Day,189,21
+204787027,Gagandeep Jagseer Singh,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,Day,Day,Day,WO,Day,WO,WO,189,21
+203138574,Veer singh,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Day,WO,Day,Day,Day,WO,Day,WO,WO,Night,189,21
+204939066,Priya ,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,Night,WO,WO,Night,Night,Day,WO,WO,189,21
+113366818,ROOP,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,WO,Night,WO,WO,Night,189,21
+113352891,Nisha,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,WO,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+204939084,Salauni,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,WO,Night,WO,WO,Night,Night,WO,Night,Night,Night,Day,WO,WO,189,21
+100672237,"Prasad,Uday",Inbound,Active-Blue,Rotating,WO,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,WO,Night,189,21
+203500706,meena,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+107595588,Nishu,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,189,21
+113548113,Hiral,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+110461422,"CHITENDRA PAL S RASHMI,RASHMI CHITENDRA PAL SINGH",Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+111891251,Deshraj,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,WO,WO,Night,WO,Day,WO,189,21
+112492010,Rampal Chaudhary,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,WO,WO,189,21
+113435891,Sameer,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,189,21
+112468183,SARITA LODHA,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205056764,Bobi,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,Day,Day,Day,WO,WO,Day,Day,WO,Day,WO,189,21
+205091532,Sushila,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113359335,Aadil MAKSHOOd Ahmed ,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Day,WO,WO,189,21
+203646577,Ramuday,Inbound,Active,Rotating,Night,Night,WO,Night,WO,Night,Night,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,WO,Day,WO,Day,WO,189,21
+205092452,Priyanka Verma,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,Night,WO,WO,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,189,21
+113287489,MOHIT  Hukum Singh,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,WO,Day,189,21
+203687330,Jatin,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Day,WO,WO,189,21
+204787038,aanchal,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,WO,WO,Night,Night,WO,Night,Night,Night,Day,Day,Day,Day,WO,Day,WO,WO,WO,Night,189,21
+203135328,Pradyuman Kumar mishra,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Night,WO,Night,WO,Night,Night,Night,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,WO,WO,189,21
+204145728,vikash,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,Night,Night,WO,Night,WO,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,189,21
+204145734,Aamir khan,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,Night,WO,189,21
+205296542,Manpreet Kaur ,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,Day,Day,Day,WO,Day,Day,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,189,21
+205223120,Anil Kumar,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,WO,Day,WO,Day,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,WO,Night,Night,WO,WO,Night,189,21
+102308286,"Udaivir,Mohit",Inbound,Active-Blue,Rotating,Day,Day,Day,WO,Day,WO,Day,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,WO,Night,189,21
+205385059,PEEYUSH ,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,WO,WO,Night,189,21
+203844687,neeraj,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,WO,WO,Night,Night,Night,Night,WO,Night,Day,WO,WO,189,21
+205336693,palak,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,Night,WO,Night,WO,Day,WO,WO,189,21
+205370920,ASLAM  ALVI,Inbound,Active,Rotating,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,Day,WO,Night,Night,WO,Night,WO,Night,Night,WO,WO,Night,189,21
+203967546,Ajay,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,189,21
+203967589,Sanni,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,WO,WO,WO,Day,189,21
+203746111,Khushbu,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,Day,WO,Day,WO,Night,WO,Night,WO,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,WO,Day,189,21
+204725742,Manisha,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205429526,anjali,Inbound,Active,Rotating,Night,Night,Night,WO,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,Day,WO,Day,WO,Night,WO,WO,189,21
+204725753,Geeta,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,WO,189,21
+108037770,"Sh.Harlal,Narender Kumar",Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,WO,Night,189,21
+204939126,Rinku devi,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Night,Night,Night,WO,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,WO,189,21
+204723486,Kanchan Singh ,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112896503,Seetu Babu,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,WO,Night,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,WO,189,21
+204939835,Jyoti,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Night,Night,WO,WO,Night,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,Night,WO,WO,Night,Night,Night,Night,WO,WO,189,21
+106667618,"KHUBIRAM,SUKHBIRkkk",Inbound,Active,Rotating,Night,WO,WO,Night,Night,Night,Night,Day,WO,Day,Day,WO,Day,Day,Night,Night,Night,WO,Night,WO,Night,Day,Day,Day,WO,Day,Day,WO,WO,Night,WO,189,21
+113133559,ANIL,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,WO,WO,Day,Day,WO,Day,WO,189,21
+203218316,Dheeraj  Chat Ram,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,189,21
+113425881,Dinesh Kumar,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,Day,WO,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,189,21
+112491997,Parkash,Inbound,Active,Rotating,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,Night,WO,189,21
+204965408,Suman Pal,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,WO,Day,WO,189,21
+203218313,Chitranshi  Rakesh Kumar,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,WO,Day,Day,WO,Day,Day,Day,Day,WO,WO,189,21
+203688647,Jyoti,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,WO,WO,189,21
+113296111,Aman Kumar ,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,WO,Day,WO,WO,Day,189,21
+113374960,Chandra kant ,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,189,21
+204686247,MANPREET,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,WO,Night,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,WO,Day,Night,WO,WO,189,21
+109614136,"Tayyab Hussain,Rahul Hussain",Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,WO,Day,Night,Night,WO,Night,WO,Night,Night,Day,WO,Day,Day,Day,WO,Day,WO,WO,Night,189,21
+112896472,Ashif khan,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,WO,Day,Day,Day,Day,Day,WO,WO,189,21
+113417228,Arashdeep,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+102104001,"Harijan,Rinku Kumar",Inbound,Active-Blue,Rotating,Night,WO,WO,Night,Night,Night,Night,WO,Day,WO,Day,Day,Day,Day,Night,WO,Night,Night,WO,Night,Night,Day,WO,WO,Day,Day,Day,Day,Night,WO,WO,189,21
+204990493,Manshee,Inbound,Active,Rotating,WO,Night,Night,WO,Night,Night,Night,Day,WO,WO,Day,Day,Day,Day,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,WO,Day,WO,WO,189,21
+112936425,Mufeed,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,WO,Day,Day,WO,Day,Night,Night,Night,WO,Night,WO,Night,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,189,21
+113439148,Annu,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,WO,WO,189,21
+113296112,Rukmani,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,Day,Day,WO,WO,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,Night,Night,Night,Night,WO,WO,Night,189,21
+113553487,Mohd Aslam,Inbound,Active,Rotating,Night,Night,Night,WO,WO,Night,Night,Day,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,WO,Day,Day,Night,Night,WO,Night,Night,Night,WO,Day,WO,WO,189,21
+113296113,rihaan singh,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,WO,Night,WO,189,21
+113359328,SADANAND Rajnarayan ,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Day,WO,189,21
+113375266,Munesh,Inbound,Active,Rotating,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,WO,Night,WO,Day,WO,189,21
+113449394,Mohd Aasif,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,WO,189,21
+203007722,PRIYANKA,Inbound,Active,Rotating,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,Night,WO,Day,WO,WO,Day,Day,Day,Day,WO,Night,WO,189,21
+203092744,Roshni,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,WO,Night,Day,Day,WO,Day,Day,Day,WO,Night,WO,WO,Night,Night,Night,Night,WO,Night,WO,189,21
+204688751,Pallvi,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,WO,Night,WO,Night,WO,WO,Night,189,21
+203537731,Divya,Inbound,Active,Rotating,Night,Night,Night,WO,WO,Night,Night,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Night,WO,Night,Night,Night,WO,Night,WO,WO,Day,189,21
+205040586,Ranjna,Inbound,Active,Rotating,Day,Day,WO,Day,WO,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,189,21
+204753975,Ujala kumari,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,WO,WO,Night,Night,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,189,21
+204753972,Maneesh Kumar ,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+205043855,Nidhi,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204792317,Prachi,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,Night,Night,WO,Night,Day,Day,WO,Day,WO,Day,Day,WO,WO,Day,189,21
+205044053,Shivani,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203546901,Shushmita,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,Night,Night,Day,Day,Day,Day,WO,Day,WO,Night,WO,Night,Night,Night,WO,Night,WO,WO,Day,189,21
+204145733,ANJU ,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,WO,Day,WO,189,21
+204990996,Kishan Saroj,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,Night,WO,WO,Day,WO,189,21
+205040574,Preety,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,Night,WO,WO,189,21
+205093535,SARBJIT,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Day,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,Night,WO,WO,189,21
+106561681,"Naresh Soni,Gaurav Soniiii",Inbound,Active,Rotating,WO,Night,Night,Night,WO,Night,Night,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,WO,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,189,21
+205040581,Ajay Kumar,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,WO,Night,189,21
+113273734,Nutan,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,WO,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,WO,Day,Night,WO,WO,189,21
+205043858,Deepika,Inbound,Active,Rotating,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,189,21
+205066366,Varsha Dwivedi ,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Night,WO,189,21
+205043878,Harpreet,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,Day,WO,WO,Day,WO,Day,WO,189,21
+205056760,Anjali  Bachchelal,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,189,21
+205056758,Suraj  Gaya Prasad,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,Night,189,21
+113337695,Ankit,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,Day,Day,Day,Day,Night,Night,WO,Night,Night,Night,WO,Day,Day,Day,WO,Day,WO,Day,Day,WO,WO,189,21
+113434552,Beeresh kumar,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,Night,Night,WO,Day,Day,WO,WO,Day,Day,Day,WO,WO,Day,189,21
+203546880,Khushali,Inbound,Active,Rotating,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,WO,WO,Night,Day,Day,Day,WO,Day,WO,Day,WO,Day,WO,189,21
+113377264,AANCHAL,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,WO,WO,189,21
+203635611,Gorav,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,Night,WO,WO,Night,WO,Night,Night,Night,Night,WO,Night,Day,WO,Day,Day,Day,Day,WO,WO,WO,Day,189,21
+204039299,Gokalesh,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,Night,Night,WO,WO,WO,WO,Night,189,21
+205092903,Shreya,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205330638,robin singh,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,Day,Day,WO,Day,WO,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,WO,WO,Day,Day,WO,WO,Night,189,21
+205404136,anshul  Raghunath Singh,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,WO,189,21
+205404008,Sahil Kumar  Suresh Kumar,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,WO,Night,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,WO,189,21
+205429769,JASHANPREET Kaur,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,Night,Night,WO,Night,Night,Night,WO,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+113394544,Adesh pal ,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,WO,WO,Night,189,21
+204939840,Virendra,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,WO,Day,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,189,21
+205119851,Monika ,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,189,21
+205119845,Alka dwivedi,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,Day,WO,Day,Day,WO,Night,Night,WO,Night,Night,Night,Day,WO,WO,189,21
+204965934,Chhail,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,WO,WO,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,189,21
+204965922,Vijay,Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Day,Night,Night,WO,Night,WO,Night,Night,Day,Day,WO,Day,Day,Day,WO,WO,WO,Night,189,21
+205005066,Rinki  Devi,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,Night,Night,Night,WO,Night,WO,Night,WO,Night,Night,WO,Night,Night,Day,Day,WO,Day,WO,Day,Day,WO,Night,WO,189,21
+205155142,YOGESH KUMAR,Inbound,Active,Fixed_Night,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,Night,WO,WO,WO,WO,Night,189,21
+203746108,Pooja  Vishwanath,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205093493,CICILIA,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205241406,priya,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,Night,Night,Day,WO,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,189,21
+205296608,Meena ,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Night,WO,WO,189,21
+113301340,Kanchan Devi,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Day,WO,WO,189,21
+204777268,Asha,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,Night,WO,WO,Night,Night,Night,WO,WO,Night,Night,Night,Day,Day,Day,WO,Day,WO,Day,WO,Night,WO,189,21
+205296603,ajay,Inbound,Active,Rotating,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,WO,Day,Day,Day,Day,Day,WO,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,189,21
+112766965,Pankaj kailodiya,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,WO,Night,WO,Night,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,WO,WO,Night,Night,Day,WO,WO,189,21
+205329478,Poonam Rajput ,Inbound,Active,Rotating,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,WO,Day,WO,WO,Night,Night,Night,Night,Night,WO,Night,WO,WO,189,21
+205332014,Ramkumar,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Night,Night,WO,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,Night,WO,Night,Night,Night,Night,WO,WO,Day,WO,189,21
+205336695,Ravinder ,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,WO,WO,Day,189,21
+205122490,Jony,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Night,WO,Night,Night,Night,WO,Night,WO,Day,WO,189,21
+203613306,Suraj Pal,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,WO,WO,Night,189,21
+205005136,Lovepreet  Singh,Inbound,Active,Rotating,Day,Day,Day,WO,WO,Day,Day,Night,Night,Night,WO,WO,Night,Night,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,Day,WO,WO,WO,WO,Night,189,21
+205370532,CHOTU KUMAR,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,Night,Night,Night,WO,Night,Night,WO,WO,Day,Day,Day,Day,WO,Day,Night,Night,WO,WO,Night,Night,Night,WO,WO,Day,189,21
+203881952,AKASH SAINI,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,WO,WO,Night,WO,Night,WO,189,21
+205370916,Rahul  Kumar,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,WO,Day,WO,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,Day,WO,Day,Day,WO,Day,Day,Night,WO,WO,189,21
+112766942,Deepak Kumar  Kumar ,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,WO,Night,WO,Night,WO,189,21
+205370507,Sachin  KUMAR,Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,WO,WO,Night,189,21
+205370529,Ankush Tiwari  Ankush Tiwari ,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,Night,Night,Night,WO,WO,Night,WO,WO,Day,189,21
+205371065,Abhay Singh Yadav,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,Night,189,21
+205155137,DHEERAJ,Inbound,Active,Rotating,Day,WO,Day,Day,WO,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,Night,WO,WO,189,21
+203777634,Diya ,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,WO,WO,WO,Day,189,21
+112457586,sunil,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,WO,Night,WO,189,21
+203664940,Ram kishor,Inbound,Active,Rotating,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,WO,WO,Day,Day,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,WO,189,21
+205385347,Robin,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,WO,Day,Day,Day,Day,Day,Night,WO,Night,WO,Night,Night,Night,WO,WO,Night,189,21
+205329486,Palvi,Inbound,Active,Rotating,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,Night,WO,Day,Day,Day,WO,Day,Day,WO,Night,WO,WO,189,21
+205385342,RANJIT SINGH,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Day,Day,WO,WO,Day,Day,Day,Night,Night,WO,Night,Night,Night,WO,Night,WO,WO,Night,Night,Night,Night,WO,WO,Day,189,21
+205385344,RAVI,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,189,21
+205385073,Sohan Prakash,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,Night,WO,WO,Night,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,WO,WO,Day,189,21
+205385341,BINAY KUMAR,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,WO,WO,Day,Day,Day,Day,Day,WO,Night,Night,Night,Night,Night,WO,WO,Day,WO,189,21
+205329585,Rina,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,Night,Night,WO,WO,Night,WO,Day,Day,Day,Day,Day,WO,Night,WO,Night,Night,WO,Night,Night,WO,WO,Day,189,21
+205414278,Kajal,Inbound,Active,Rotating,WO,Night,Night,Night,Night,Night,WO,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,189,21
+203749109,Roshani,Inbound,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205429524,Neha,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,Night,Night,Night,WO,Night,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,WO,Day,WO,189,21
+205370516,Sunny Kumar  Sunny Kumar ,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,WO,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,Night,189,21
+205688744,Rachna,Inbound,Active,Rotating,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Day,Night,WO,Night,Night,WO,Night,Night,WO,Day,Day,Day,Day,Day,WO,WO,WO,Day,189,21
+205688731,Jagdeep kaur,Inbound,Active,Rotating,WO,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,WO,Day,Day,Night,Night,WO,WO,Night,Night,Night,WO,WO,Day,189,21
+205414050,TANNU,Inbound,Active,Rotating,Day,WO,Day,Day,Day,WO,Day,Night,WO,Night,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,WO,WO,Day,Day,Day,Day,Day,Night,WO,WO,189,21
+205429510,ram singh,Inbound,Active,Rotating,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,WO,Day,WO,WO,Night,Night,Night,Night,WO,Night,WO,WO,Night,Night,Night,Night,Night,WO,Day,WO,189,21
+205869795,Ragini ,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,Night,WO,WO,Night,Night,Night,Night,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,WO,Night,WO,189,21
+204725751,Madhuri,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,WO,Night,Night,WO,Night,Night,Night,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,Night,WO,189,21
+206798728,Sadhana,Inbound,Active,Rotating,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,189,21
+205536805,DIVYA,Inbound,Active,Rotating,Day,WO,WO,Day,Day,Day,Day,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,Day,WO,WO,189,21
+206798744,Shabina,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,Night,WO,189,21
+113421092,Antima,Inbound,Active,Rotating,Night,WO,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,Night,WO,Day,WO,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,Day,WO,WO,Day,189,21
+204811462,Laxmi,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Night,Night,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,189,21
+203635636,Shivani,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Night,Night,Night,Night,Night,WO,WO,WO,Day,Day,Day,WO,Day,Day,Night,Night,Night,Night,WO,Night,WO,Night,WO,WO,189,21
+206798742,Anamika,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Night,Night,WO,Night,WO,Night,Night,Night,WO,WO,189,21
+206798747,Arpana,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,WO,WO,Day,Day,Night,Night,WO,Night,Night,Night,WO,WO,Day,WO,189,21
+206798741,Ritika,Inbound,Active,Rotating,Night,Night,WO,WO,Night,Night,Night,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,Day,WO,Day,WO,Day,WO,189,21
+113552758,Gagan,Inbound,Active,Rotating,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Day,Day,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,WO,Day,WO,189,21
+206798740,Lovepreet,Inbound,Active,Rotating,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,Night,Night,WO,Day,Day,WO,Day,Day,WO,Day,Night,Night,WO,Night,Night,Night,WO,WO,Night,WO,189,21
+206798732,Annu,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,WO,Night,WO,Night,Night,WO,Night,WO,Night,Night,Night,Day,Day,WO,Day,Day,Day,WO,WO,Day,WO,189,21
+206798730,Vimla,Inbound,Active,Rotating,Night,Night,WO,Night,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,Day,WO,WO,189,21
+203861058,Sapna,Inbound,Active,Rotating,Night,Night,Night,Night,WO,Night,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,WO,Day,Day,Day,WO,Night,Night,WO,Night,WO,Night,Night,WO,WO,Day,189,21
+206862527,Kajal,Inbound,Active,Rotating,WO,Night,Night,Night,Night,WO,Night,Day,WO,Day,Day,Day,Day,WO,Day,Day,Day,WO,WO,Day,Day,Night,Night,WO,Night,WO,Night,Night,Day,WO,WO,189,21
+206862530,Manbhari,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,Night,Night,WO,Night,Night,WO,Night,WO,WO,Night,189,21
+110965204,Saroj Kaur,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,WO,Night,WO,189,21
+206862535,Rakhi,Inbound,Active,Rotating,Day,Day,Day,Day,WO,WO,Day,Night,Night,WO,Night,WO,Night,Night,Night,Night,Night,WO,WO,Night,Night,Day,WO,Day,Day,Day,WO,Day,WO,WO,Night,189,21
+206868052,Manu ,Inbound,Active,Rotating,Day,Day,Day,WO,WO,Day,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,WO,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,Day,WO,WO,189,21
+206868054,Sukhpreet kaur ,Inbound,Active,Rotating,Night,Night,Night,Night,WO,WO,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,Night,Night,Night,WO,Day,WO,189,21
+205724969,Mausam Tanwar,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,Night,Night,WO,Night,Night,WO,Night,WO,Day,WO,189,21
+113429119,Pinki ,Inbound,Active,Rotating,Day,Day,Day,WO,Day,WO,Day,WO,Day,Day,Day,Day,WO,Day,WO,Night,Night,WO,Night,Night,Night,Day,Day,Day,WO,WO,Day,Day,Night,WO,WO,189,21
+206868048,Jahnavi Mishra,Inbound,Active,Rotating,Day,Day,Day,Day,WO,Day,WO,Night,WO,Night,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,WO,WO,Day,Day,Day,Day,WO,Day,WO,WO,Night,189,21
+112560901,Irfan,Inbound,Active,Rotating,Night,WO,Night,Night,Night,Night,WO,Night,Night,Night,WO,Night,WO,Night,WO,Night,Night,WO,Night,Night,Night,Day,Day,Day,Day,WO,Day,WO,WO,WO,Night,189,21
+206870011,DEVENDRA,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,WO,Night,WO,Night,Night,Night,WO,Night,WO,Night,Night,Day,Day,Day,WO,Day,WO,Day,WO,Day,WO,189,21
+206870010,Naresh,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,WO,WO,Night,Night,Night,Night,Day,WO,Day,WO,Day,Day,Day,Day,Day,Day,Day,Day,WO,WO,Night,WO,WO,189,21
+206870013,Harish Chand,Inbound,Active,Rotating,Night,WO,Night,Night,Night,WO,Night,Day,Day,WO,Day,Day,Day,WO,WO,WO,Night,Night,Night,Night,Night,WO,WO,Day,Day,Day,Day,Day,WO,Day,WO,189,21
+113374975,Deepak,Inbound,Active,Rotating,Day,WO,Day,WO,Day,Day,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,Day,WO,Day,Day,WO,WO,Night,Night,Night,WO,Night,Night,Night,WO,WO,189,21
+113394528,Rahul,Inbound,Active,Rotating,Day,Day,Day,WO,Day,Day,WO,Night,Night,Night,WO,Night,Night,WO,Day,WO,Day,WO,Day,Day,Day,Night,Night,Night,Night,Night,WO,WO,Night,WO,WO,189,21
+204688740,Sandeep,Inbound,Active,Rotating,WO,Day,Day,Day,Day,Day,WO,Night,Night,Night,Night,WO,Night,WO,Night,WO,Night,WO,Night,Night,Night,WO,Day,Day,WO,Day,Day,Day,Night,WO,WO,189,21
+205792267,puja,Inbound,Active,Rotating,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Night,Night,WO,Night,Night,Night,WO,Night,Night,WO,WO,Night,Night,Night,WO,Night,WO,189,21
+206870018,Kirti,Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Night,Night,Night,Night,WO,Night,WO,WO,WO,Night,Night,Night,Night,Night,Day,Day,Day,WO,Day,Day,WO,Day,WO,WO,189,21
+103386434,"Babulal,Vikash Sharma  ",Inbound,Active,Rotating,Night,WO,Night,WO,Night,Night,Night,Day,Day,Day,Day,Day,WO,WO,WO,Day,WO,Day,Day,Day,Day,Night,Night,Night,Night,WO,WO,Night,WO,WO,Night,189,21
+113002391,RADHA ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+107056217,"Lliyasss,Salauddin",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113548103,Tannu,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+103419816,"Rohtashh Singhh,Sunill Kumarr",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203648312,Ashish kumar,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203688642,SHORABH,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+102378705,"Nathuram,Parmod",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+102443238,"Rattansingh,Sandeepkumar",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+102443239,"Mamansingh,Praveenkumar",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+103377046,"Ushaa,Ushaaa",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112792734,Sandeep Kumar,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+111893739,NISHA,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112325261,REKHA ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+108157429,"Sunehri lal,Subhash CHAND",C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112337916,Leela Kumari ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113270355,Shabana,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113377282,Preeti ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113377861,RABEENA,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113417231,Archana,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113494924,Sukhveer Singh ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+112337901,POOJA ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203546940,payal,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203648040,gaurav,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113460628,Savita ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204668434,Kusum,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+113487578,SHIKHA,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205056920,Manisha  Ramhari,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205329485,MAMTA ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205869771,Shri Kant,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204145726,SWEETY,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204724781,Priyanka Rani ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+204723480,Pushpsa Devi,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205093814,Manpreet Kaur,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205329587,Salma,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203880553,SALONI,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+203966216,Sankit,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
+205412213,Vandana ,C-ret,Active,Fixed_Day,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,Day,Day,Day,Day,Day,WO,WO,WO,WO,Day,189,21
